@@ -1,0 +1,132 @@
+body {
+    
+}
+
+.op-button1{
+    width:130px;
+    height:40px;
+    border:0.5px solid;
+    outline:none;
+    background-color:black;
+    color:white;
+    font-size:18px;
+    border-radius:3px;
+    position:absolute ;
+    transition:0.3s;
+}
+
+.op-button1:active{
+    width:110px;
+    height:30px;
+    border:0.5px solid;
+    outline:none;
+    background-color:black;
+    color:white;
+    font-size:18px;
+    border-radius:3px;
+    position:absolute ;
+}
+
+.op-button2{
+    width:130px;
+    height:40px;
+    border:0.5px solid;
+    outline:none;
+    background:linear-gradient(to right,#000,60%,#fff);
+    color:white;
+    font-size:18px;
+    border-radius:3px;
+    position:absolute ;
+    transition:0.3s;
+}
+
+.op-button2:active{
+    width:110px;
+    height:30px;
+    border:0.5px solid;
+    outline:none;
+    background-color:black;
+    color:white;
+    font-size:18px;
+    border-radius:3px;
+    position:absolute ;
+
+}
+
+
+.op-button3{
+    width:130px;
+    height:40px;
+    border:0.5px solid;
+    outline:none;
+    background:#e54;
+    color:white;
+    font-size:18px;
+    border-radius:3px;
+    position:absolute ;
+    transition:0.3s;
+}
+
+.op-button3:active{
+    width:110px;
+    height:30px;
+    border:0.5px solid;
+    outline:none;
+    background-color:#e34;
+    color:white;
+    font-size:18px;
+    border-radius:3px;
+    position:absolute ;
+    
+}
+.op-button4{
+    width:130px;
+    height:40px;
+    border:0.5px solid;
+    outline:none;
+    background:#a1a1;
+    color:black;
+    font-size:18px;
+    border-radius:3px;
+    position:absolute ;
+    
+    transition:0.3s;
+}
+
+.op-button4:active{
+    width:110px;
+    height:30px;
+    border:0.5px solid;
+    outline:none;
+    background-color:#a3a3;
+    color:white;
+    font-size:18px;
+    border-radius:3px;
+    position:absolute ;
+}
+
+
+.op-button5{
+    width:130px;
+    height:40px;
+    border:0.5px solid;
+    outline:none;
+    background:#a34;
+    color:white;
+    font-size:18px;
+    border-radius:3px;
+    position:absolute ;
+    transition:0.3s;
+}
+
+.op-button5:active{
+    width:110px;
+    height:30px;
+    border:0.5px solid;
+    outline:none;
+    background-color:#a34;
+    color:white;
+    font-size:18px;
+    border-radius:3px;
+    position:absolute ;
+}
