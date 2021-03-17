@@ -2,7 +2,7 @@ body {
     
 }
 
-.op-button1{
+.power-button1{
     width:130px;
     height:40px;
     border:0.5px solid;
@@ -15,7 +15,7 @@ body {
     transition:0.3s;
 }
 
-.op-button1:active{
+.power-button1:active{
     width:110px;
     height:30px;
     border:0.5px solid;
@@ -27,7 +27,7 @@ body {
     position:absolute ;
 }
 
-.op-button2{
+.power-button2{
     width:130px;
     height:40px;
     border:0.5px solid;
@@ -40,7 +40,7 @@ body {
     transition:0.3s;
 }
 
-.op-button2:active{
+.power-button2:active{
     width:110px;
     height:30px;
     border:0.5px solid;
@@ -54,7 +54,7 @@ body {
 }
 
 
-.op-button3{
+.power-button3{
     width:130px;
     height:40px;
     border:0.5px solid;
@@ -67,7 +67,7 @@ body {
     transition:0.3s;
 }
 
-.op-button3:active{
+.power-button3:active{
     width:110px;
     height:30px;
     border:0.5px solid;
@@ -79,7 +79,7 @@ body {
     position:absolute ;
     
 }
-.op-button4{
+.power-button4{
     width:130px;
     height:40px;
     border:0.5px solid;
@@ -93,7 +93,7 @@ body {
     transition:0.3s;
 }
 
-.op-button4:active{
+.power-button4:active{
     width:110px;
     height:30px;
     border:0.5px solid;
@@ -106,7 +106,7 @@ body {
 }
 
 
-.op-button5{
+.power-button5{
     width:130px;
     height:40px;
     border:0.5px solid;
@@ -119,7 +119,7 @@ body {
     transition:0.3s;
 }
 
-.op-button5:active{
+.power-button5:active{
     width:110px;
     height:30px;
     border:0.5px solid;
