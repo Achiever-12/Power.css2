@@ -150,3 +150,25 @@ body {
     top:22px;
     outline:10px black;
 }
+.power-slider2{
+     -webkit-appearance:none;
+     width:170px;
+     height:35px;
+     background-color:mediumseagreen;
+     border-radius:5px;
+     border:2px solid black;
+     outline:none;
+}
+
+.power-slider2::-webkit-slider-thumb{
+     -webkit-appearance:none;
+     width:20px;
+     height:35px;
+     background-color:lime;
+     box-shadow:lime
+         60px
+         40px
+         50px
+     ;
+     border-radius:5px;
+}
